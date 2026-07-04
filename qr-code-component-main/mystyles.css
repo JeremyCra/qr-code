@@ -14,12 +14,12 @@ main {
 
 .container {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 30px;
-  max-width: 19rem;
+  border-radius: 20px;
+  max-width: 18rem;
   height: auto;
 }
 .container .cont-pad {
-  padding: 1.3rem;
+  padding: 1rem;
 }
 
 .img-con {
@@ -30,7 +30,7 @@ main {
 }
 .img-con img {
   max-width: 100%;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 }
 
 .text-con {
